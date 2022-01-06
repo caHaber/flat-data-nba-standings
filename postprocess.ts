@@ -6,7 +6,6 @@ import { DOMParser } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 
 const filename = Deno.args[0]; // Same name as downloaded_filename `const filename = 'btc-price.json';`
 const html = await Deno.readTextFile(filename);
-console.log(html);
 
 const document: any = new DOMParser().parseFromString(html, "text/html");
 
@@ -15,9 +14,11 @@ const all_tables: any = [...document.querySelectorAll("table")];
 const EAST_standings: any = download_table_as_csv("confs_standings_E");
 const WEST_standings: any = download_table_as_csv("confs_standings_W");
 
-Deno.writeTextFile("EAST_standings.csv", EAST_standings);
+console.log(EAST_standings, WEST_standings);
 
-Deno.writeTextFile("WEST_standings.csv", EAST_standings);
+await Deno.writeTextFile("EAST_standings.csv", EAST_standings);
+
+await Deno.writeTextFile("WEST_standings.csv", WEST_standings);
 
 function download_table_as_csv(table_id: any, separator = ",") {
   // Select rows from table_id
