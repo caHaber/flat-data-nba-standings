@@ -1,6 +1,6 @@
 // Is this the cause of the failures ?
 // import "https://deno.land/x/flat@0.0.10/mod.ts";
-import { removeFile } from "https://deno.land/x/flat@0.0.11/mod.ts";
+import { removeFile } from "https://deno.land/x/flat/mod.ts";
 
 import { table_to_csv } from "./table_csv.ts";
 
