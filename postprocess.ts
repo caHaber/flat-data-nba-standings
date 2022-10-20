@@ -5,7 +5,7 @@ import { removeFile } from "https://deno.land/x/flat/mod.ts";
 import { table_to_csv } from "./table_csv.ts";
 
 const filename = Deno.args[0]; // Same name as downloaded_filename `const filename = 'btc-price.json';`
-const html = await Deno.readTextFile(filename);
+const html = await Deno.readTextFile('NBA_2023.html');
 
 const EAST_standings: any = table_to_csv("confs_standings_E", html);
 const WEST_standings: any = table_to_csv("confs_standings_W", html);
