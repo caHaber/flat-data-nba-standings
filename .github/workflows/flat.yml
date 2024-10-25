@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Setup deno
         uses: denoland/setup-deno@main
+        with:
+          deno-version: v1.10.x
       - name: Check out repo
         uses: actions/checkout@v2
       - name: curl
