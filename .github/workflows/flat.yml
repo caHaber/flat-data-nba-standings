@@ -15,14 +15,10 @@ jobs:
         with:
           deno-version: v2.x
       - name: Check out repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: curl
         uses: wei/curl@v1
         with:
           args: -O  https://www.basketball-reference.com/leagues/NBA_2025.html
-      - name: Fetch data
-        uses: githubocto/flat@v3
-        with:
-          http_url: https://www.espn.com/nba/standings
-          downloaded_filename: standings.html
-          postprocess: ./postprocess.ts
+      - name: Postprocess
+        run: deno run -q --allow-read --allow-write --allow-run --allow-net --allow-env --unstable ./postprocess.ts
