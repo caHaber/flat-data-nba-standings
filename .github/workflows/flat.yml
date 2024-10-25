@@ -18,7 +18,7 @@ jobs:
       - name: curl
         uses: wei/curl@v1
         with:
-          args: -O  https://www.basketball-reference.com/leagues/NBA_2024.html
+          args: -O  https://www.basketball-reference.com/leagues/NBA_2025.html
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
