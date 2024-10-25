@@ -1,220 +1,223 @@
-Date,Start (ET),Visitor/Neutral,PTS,Home/Neutral,PTS,,,Attend.,Arena,Notes
-Wed Nov 1 2023,7:00p,Portland Trail Blazers,,Detroit Pistons,,,,,Little Caesars Arena,
-Wed Nov 1 2023,7:00p,Milwaukee Bucks,,Toronto Raptors,,,,,Scotiabank Arena,
-Wed Nov 1 2023,7:30p,Washington Wizards,,Atlanta Hawks,,,,,State Farm Arena,
-Wed Nov 1 2023,7:30p,Indiana Pacers,,Boston Celtics,,,,,TD Garden,
-Wed Nov 1 2023,7:30p,Brooklyn Nets,,Miami Heat,,,,,Kaseya Center,
-Wed Nov 1 2023,7:30p,Cleveland Cavaliers,,New York Knicks,,,,,Madison Square Garden (IV),
-Wed Nov 1 2023,7:30p,New Orleans Pelicans,,Oklahoma City Thunder,,,,,Paycom Center,
-Wed Nov 1 2023,8:00p,Charlotte Hornets,,Houston Rockets,,,,,Toyota Center,
-Wed Nov 1 2023,8:00p,Denver Nuggets,,Minnesota Timberwolves,,,,,Target Center,
-Wed Nov 1 2023,8:30p,Chicago Bulls,,Dallas Mavericks,,,,,American Airlines Center,
-Wed Nov 1 2023,9:00p,Memphis Grizzlies,,Utah Jazz,,,,,Delta Center,
-Wed Nov 1 2023,10:00p,Sacramento Kings,,Golden State Warriors,,,,,Chase Center,
-Wed Nov 1 2023,10:00p,Los Angeles Clippers,,Los Angeles Lakers,,,,,Crypto.com Arena,
-Thu Nov 2 2023,7:00p,Toronto Raptors,,Philadelphia 76ers,,,,,Wells Fargo Center,
-Thu Nov 2 2023,8:00p,Detroit Pistons,,New Orleans Pelicans,,,,,Smoothie King Center,
-Thu Nov 2 2023,9:00p,Orlando Magic,,Utah Jazz,,,,,Delta Center,
-Thu Nov 2 2023,10:00p,San Antonio Spurs,,Phoenix Suns,,,,,Footprint Center,
-Fri Nov 3 2023,7:00p,Cleveland Cavaliers,,Indiana Pacers,,,,,Gainbridge Fieldhouse,In-Season Tournament
-Fri Nov 3 2023,7:30p,New York Knicks,,Milwaukee Bucks,,,,,Fiserv Forum,In-Season Tournament
-Fri Nov 3 2023,8:00p,Brooklyn Nets,,Chicago Bulls,,,,,United Center,In-Season Tournament
-Fri Nov 3 2023,8:00p,Washington Wizards,,Miami Heat,,,,,Kaseya Center,In-Season Tournament
-Fri Nov 3 2023,8:00p,Golden State Warriors,,Oklahoma City Thunder,,,,,Paycom Center,In-Season Tournament
-Fri Nov 3 2023,10:00p,Dallas Mavericks,,Denver Nuggets,,,,,Ball Arena,In-Season Tournament
-Fri Nov 3 2023,10:00p,Memphis Grizzlies,,Portland Trail Blazers,,,,,Moda Center,In-Season Tournament
-Sat Nov 4 2023,1:00p,Phoenix Suns,,Philadelphia 76ers,,,,,Wells Fargo Center,
-Sat Nov 4 2023,7:00p,Charlotte Hornets,,Indiana Pacers,,,,,Gainbridge Fieldhouse,
-Sat Nov 4 2023,7:00p,Atlanta Hawks,,New Orleans Pelicans,,,,,Smoothie King Center,
-Sat Nov 4 2023,7:00p,Los Angeles Lakers,,Orlando Magic,,,,,Amway Center,
-Sat Nov 4 2023,8:00p,Boston Celtics,,Brooklyn Nets,,,,,Barclays Center,
-Sat Nov 4 2023,8:00p,Sacramento Kings,,Houston Rockets,,,,,Toyota Center,
-Sat Nov 4 2023,8:00p,Utah Jazz,,Minnesota Timberwolves,,,,,Target Center,
-Sat Nov 4 2023,9:00p,Chicago Bulls,,Denver Nuggets,,,,,Ball Arena,
-Sun Nov 5 2023,3:00p,Phoenix Suns,,Detroit Pistons,,,,,Little Caesars Arena,
-Sun Nov 5 2023,3:30p,Toronto Raptors,,San Antonio Spurs,,,,,AT&T Center,
-Sun Nov 5 2023,6:00p,Golden State Warriors,,Cleveland Cavaliers,,,,,Rocket Mortgage Fieldhouse,
-Sun Nov 5 2023,7:30p,Charlotte Hornets,,Dallas Mavericks,,,,,American Airlines Center,
-Sun Nov 5 2023,9:00p,Memphis Grizzlies,,Portland Trail Blazers,,,,,Moda Center,
-Mon Nov 6 2023,7:00p,Golden State Warriors,,Detroit Pistons,,,,,Little Caesars Arena,
-Mon Nov 6 2023,7:00p,San Antonio Spurs,,Indiana Pacers,,,,,Gainbridge Fieldhouse,
-Mon Nov 6 2023,7:00p,Dallas Mavericks,,Orlando Magic,,,,,Amway Center,
-Mon Nov 6 2023,7:00p,Washington Wizards,,Philadelphia 76ers,,,,,Wells Fargo Center,
-Mon Nov 6 2023,7:30p,Milwaukee Bucks,,Brooklyn Nets,,,,,Barclays Center,
-Mon Nov 6 2023,7:30p,Los Angeles Lakers,,Miami Heat,,,,,Kaseya Center,
-Mon Nov 6 2023,7:30p,Los Angeles Clippers,,New York Knicks,,,,,Madison Square Garden (IV),
-Mon Nov 6 2023,8:00p,Utah Jazz,,Chicago Bulls,,,,,United Center,
-Mon Nov 6 2023,8:00p,Sacramento Kings,,Houston Rockets,,,,,Toyota Center,
-Mon Nov 6 2023,8:00p,Boston Celtics,,Minnesota Timberwolves,,,,,Target Center,
-Mon Nov 6 2023,8:00p,Atlanta Hawks,,Oklahoma City Thunder,,,,,Paycom Center,
-Mon Nov 6 2023,9:00p,New Orleans Pelicans,,Denver Nuggets,,,,,Ball Arena,
-Wed Nov 8 2023,7:00p,Washington Wizards,,Charlotte Hornets,,,,,Spectrum Center,
-Wed Nov 8 2023,7:00p,Utah Jazz,,Indiana Pacers,,,,,Gainbridge Fieldhouse,
-Wed Nov 8 2023,7:00p,Boston Celtics,,Philadelphia 76ers,,,,,Wells Fargo Center,
-Wed Nov 8 2023,7:30p,Los Angeles Clippers,,Brooklyn Nets,,,,,Barclays Center,
-Wed Nov 8 2023,7:30p,San Antonio Spurs,,New York Knicks,,,,,Madison Square Garden (IV),
-Wed Nov 8 2023,8:00p,Phoenix Suns,,Chicago Bulls,,,,,United Center,
-Wed Nov 8 2023,8:00p,Los Angeles Lakers,,Houston Rockets,,,,,Toyota Center,
-Wed Nov 8 2023,8:00p,Miami Heat,,Memphis Grizzlies,,,,,FedEx Forum,
-Wed Nov 8 2023,8:00p,Detroit Pistons,,Milwaukee Bucks,,,,,Fiserv Forum,
-Wed Nov 8 2023,8:00p,New Orleans Pelicans,,Minnesota Timberwolves,,,,,Target Center,
-Wed Nov 8 2023,8:00p,Cleveland Cavaliers,,Oklahoma City Thunder,,,,,Paycom Center,
-Wed Nov 8 2023,8:30p,Toronto Raptors,,Dallas Mavericks,,,,,American Airlines Center,
-Wed Nov 8 2023,10:00p,Golden State Warriors,,Denver Nuggets,,,,,Ball Arena,
-Wed Nov 8 2023,10:00p,Portland Trail Blazers,,Sacramento Kings,,,,,Golden 1 Center,
-Thu Nov 9 2023,7:00p,Milwaukee Bucks,,Indiana Pacers,,,,,Gainbridge Fieldhouse,
-Thu Nov 9 2023,9:30p,Atlanta Hawks,,Orlando Magic,,,,,Mexico City Arena,
-Fri Nov 10 2023,7:00p,Philadelphia 76ers,,Detroit Pistons,,,,,Little Caesars Arena,In-Season Tournament
-Fri Nov 10 2023,7:00p,Charlotte Hornets,,Washington Wizards,,,,,Capital One Arena,In-Season Tournament
-Fri Nov 10 2023,7:30p,Brooklyn Nets,,Boston Celtics,,,,,TD Garden,In-Season Tournament
-Fri Nov 10 2023,8:00p,New Orleans Pelicans,,Houston Rockets,,,,,Toyota Center,In-Season Tournament
-Fri Nov 10 2023,8:00p,Utah Jazz,,Memphis Grizzlies,,,,,FedEx Forum,In-Season Tournament
-Fri Nov 10 2023,8:00p,Minnesota Timberwolves,,San Antonio Spurs,,,,,AT&T Center,In-Season Tournament
-Fri Nov 10 2023,8:30p,Los Angeles Clippers,,Dallas Mavericks,,,,,American Airlines Center,In-Season Tournament
-Fri Nov 10 2023,10:00p,Los Angeles Lakers,,Phoenix Suns,,,,,Footprint Center,In-Season Tournament
-Fri Nov 10 2023,10:00p,Oklahoma City Thunder,,Sacramento Kings,,,,,Golden 1 Center,In-Season Tournament
-Sat Nov 11 2023,6:00p,Milwaukee Bucks,,Orlando Magic,,,,,Amway Center,
-Sat Nov 11 2023,7:00p,Toronto Raptors,,Boston Celtics,,,,,TD Garden,
-Sat Nov 11 2023,7:30p,Miami Heat,,Atlanta Hawks,,,,,State Farm Arena,
-Sat Nov 11 2023,8:30p,Cleveland Cavaliers,,Golden State Warriors,,,,,Chase Center,
-Sun Nov 12 2023,12:00p,Charlotte Hornets,,New York Knicks,,,,,Madison Square Garden (IV),
-Sun Nov 12 2023,3:00p,Washington Wizards,,Brooklyn Nets,,,,,Barclays Center,
-Sun Nov 12 2023,3:30p,Memphis Grizzlies,,Los Angeles Clippers,,,,,Crypto.com Arena,
-Sun Nov 12 2023,6:00p,Indiana Pacers,,Philadelphia 76ers,,,,,Wells Fargo Center,
-Sun Nov 12 2023,7:00p,Detroit Pistons,,Chicago Bulls,,,,,United Center,
-Sun Nov 12 2023,7:00p,Denver Nuggets,,Houston Rockets,,,,,Toyota Center,
-Sun Nov 12 2023,7:00p,Dallas Mavericks,,New Orleans Pelicans,,,,,Smoothie King Center,
-Sun Nov 12 2023,7:00p,Miami Heat,,San Antonio Spurs,,,,,AT&T Center,
-Sun Nov 12 2023,8:00p,Oklahoma City Thunder,,Phoenix Suns,,,,,Footprint Center,
-Sun Nov 12 2023,8:30p,Minnesota Timberwolves,,Golden State Warriors,,,,,Chase Center,
-Sun Nov 12 2023,10:00p,Portland Trail Blazers,,Los Angeles Lakers,,,,,Crypto.com Arena,
-Mon Nov 13 2023,7:30p,New York Knicks,,Boston Celtics,,,,,TD Garden,
-Mon Nov 13 2023,7:30p,Washington Wizards,,Toronto Raptors,,,,,Scotiabank Arena,
-Mon Nov 13 2023,8:00p,Chicago Bulls,,Milwaukee Bucks,,,,,Fiserv Forum,
-Mon Nov 13 2023,10:00p,Cleveland Cavaliers,,Sacramento Kings,,,,,Golden 1 Center,
-Tue Nov 14 2023,7:00p,Miami Heat,,Charlotte Hornets,,,,,Spectrum Center,In-Season Tournament
-Tue Nov 14 2023,7:00p,Atlanta Hawks,,Detroit Pistons,,,,,Little Caesars Arena,In-Season Tournament
-Tue Nov 14 2023,7:00p,Indiana Pacers,,Philadelphia 76ers,,,,,Wells Fargo Center,In-Season Tournament
-Tue Nov 14 2023,7:30p,Orlando Magic,,Brooklyn Nets,,,,,Barclays Center,In-Season Tournament
-Tue Nov 14 2023,7:30p,San Antonio Spurs,,Oklahoma City Thunder,,,,,Paycom Center,In-Season Tournament
-Tue Nov 14 2023,8:00p,Dallas Mavericks,,New Orleans Pelicans,,,,,Smoothie King Center,In-Season Tournament
-Tue Nov 14 2023,9:00p,Portland Trail Blazers,,Utah Jazz,,,,,Delta Center,In-Season Tournament
-Tue Nov 14 2023,10:00p,Los Angeles Clippers,,Denver Nuggets,,,,,Ball Arena,In-Season Tournament
-Tue Nov 14 2023,10:00p,Minnesota Timberwolves,,Golden State Warriors,,,,,Chase Center,In-Season Tournament
-Tue Nov 14 2023,10:30p,Memphis Grizzlies,,Los Angeles Lakers,,,,,Crypto.com Arena,In-Season Tournament
-Wed Nov 15 2023,7:00p,Dallas Mavericks,,Washington Wizards,,,,,Capital One Arena,
-Wed Nov 15 2023,7:30p,New York Knicks,,Atlanta Hawks,,,,,State Farm Arena,
-Wed Nov 15 2023,7:30p,Boston Celtics,,Philadelphia 76ers,,,,,Wells Fargo Center,
-Wed Nov 15 2023,7:30p,Milwaukee Bucks,,Toronto Raptors,,,,,Scotiabank Arena,
-Wed Nov 15 2023,8:00p,Orlando Magic,,Chicago Bulls,,,,,United Center,
-Wed Nov 15 2023,9:00p,Minnesota Timberwolves,,Phoenix Suns,,,,,Footprint Center,
-Wed Nov 15 2023,10:00p,Sacramento Kings,,Los Angeles Lakers,,,,,Crypto.com Arena,
-Wed Nov 15 2023,10:00p,Cleveland Cavaliers,,Portland Trail Blazers,,,,,Moda Center,
-Thu Nov 16 2023,7:30p,Brooklyn Nets,,Miami Heat,,,,,Kaseya Center,
-Thu Nov 16 2023,10:00p,Oklahoma City Thunder,,Golden State Warriors,,,,,Chase Center,
-Fri Nov 17 2023,7:00p,Milwaukee Bucks,,Charlotte Hornets,,,,,Spectrum Center,In-Season Tournament
-Fri Nov 17 2023,7:00p,New York Knicks,,Washington Wizards,,,,,Capital One Arena,In-Season Tournament
-Fri Nov 17 2023,7:30p,Philadelphia 76ers,,Atlanta Hawks,,,,,State Farm Arena,In-Season Tournament
-Fri Nov 17 2023,7:30p,Detroit Pistons,,Cleveland Cavaliers,,,,,Rocket Mortgage Fieldhouse,In-Season Tournament
-Fri Nov 17 2023,7:30p,Sacramento Kings,,San Antonio Spurs,,,,,AT&T Center,In-Season Tournament
-Fri Nov 17 2023,7:30p,Boston Celtics,,Toronto Raptors,,,,,Scotiabank Arena,In-Season Tournament
-Fri Nov 17 2023,8:00p,Orlando Magic,,Chicago Bulls,,,,,United Center,In-Season Tournament
-Fri Nov 17 2023,8:00p,Denver Nuggets,,New Orleans Pelicans,,,,,Smoothie King Center,In-Season Tournament
-Fri Nov 17 2023,10:00p,Los Angeles Lakers,,Portland Trail Blazers,,,,,Moda Center,In-Season Tournament
-Fri Nov 17 2023,10:00p,Phoenix Suns,,Utah Jazz,,,,,Delta Center,In-Season Tournament
-Fri Nov 17 2023,10:30p,Houston Rockets,,Los Angeles Clippers,,,,,Crypto.com Arena,In-Season Tournament
-Sat Nov 18 2023,6:00p,New York Knicks,,Charlotte Hornets,,,,,Spectrum Center,
-Sat Nov 18 2023,7:00p,Minnesota Timberwolves,,New Orleans Pelicans,,,,,Smoothie King Center,
-Sat Nov 18 2023,8:00p,Miami Heat,,Chicago Bulls,,,,,United Center,
-Sat Nov 18 2023,8:00p,Dallas Mavericks,,Milwaukee Bucks,,,,,Fiserv Forum,
-Sat Nov 18 2023,8:00p,Memphis Grizzlies,,San Antonio Spurs,,,,,AT&T Center,
-Sat Nov 18 2023,8:30p,Oklahoma City Thunder,,Golden State Warriors,,,,,Chase Center,
-Sun Nov 19 2023,3:00p,Philadelphia 76ers,,Brooklyn Nets,,,,,Barclays Center,
-Sun Nov 19 2023,4:00p,Detroit Pistons,,Toronto Raptors,,,,,Scotiabank Arena,
-Sun Nov 19 2023,5:00p,Orlando Magic,,Indiana Pacers,,,,,Gainbridge Fieldhouse,
-Sun Nov 19 2023,6:00p,Denver Nuggets,,Cleveland Cavaliers,,,,,Rocket Mortgage Fieldhouse,
-Sun Nov 19 2023,7:30p,Sacramento Kings,,Dallas Mavericks,,,,,American Airlines Center,
-Sun Nov 19 2023,8:00p,Boston Celtics,,Memphis Grizzlies,,,,,FedEx Forum,
-Sun Nov 19 2023,8:00p,Phoenix Suns,,Utah Jazz,,,,,Delta Center,
-Sun Nov 19 2023,9:00p,Oklahoma City Thunder,,Portland Trail Blazers,,,,,Moda Center,
-Sun Nov 19 2023,9:30p,Houston Rockets,,Los Angeles Lakers,,,,,Crypto.com Arena,
-Mon Nov 20 2023,7:00p,Boston Celtics,,Charlotte Hornets,,,,,Spectrum Center,
-Mon Nov 20 2023,7:00p,Denver Nuggets,,Detroit Pistons,,,,,Little Caesars Arena,
-Mon Nov 20 2023,7:00p,Milwaukee Bucks,,Washington Wizards,,,,,Capital One Arena,
-Mon Nov 20 2023,8:00p,Miami Heat,,Chicago Bulls,,,,,United Center,
-Mon Nov 20 2023,8:00p,New York Knicks,,Minnesota Timberwolves,,,,,Target Center,
-Mon Nov 20 2023,8:00p,Sacramento Kings,,New Orleans Pelicans,,,,,Smoothie King Center,
-Mon Nov 20 2023,8:00p,Los Angeles Clippers,,San Antonio Spurs,,,,,AT&T Center,
-Mon Nov 20 2023,10:00p,Houston Rockets,,Golden State Warriors,,,,,Chase Center,
-Tue Nov 21 2023,7:00p,Toronto Raptors,,Orlando Magic,,,,,Amway Center,In-Season Tournament
-Tue Nov 21 2023,7:30p,Indiana Pacers,,Atlanta Hawks,,,,,State Farm Arena,In-Season Tournament
-Tue Nov 21 2023,7:30p,Cleveland Cavaliers,,Philadelphia 76ers,,,,,Wells Fargo Center,In-Season Tournament
-Tue Nov 21 2023,9:00p,Portland Trail Blazers,,Phoenix Suns,,,,,Footprint Center,In-Season Tournament
-Tue Nov 21 2023,10:00p,Utah Jazz,,Los Angeles Lakers,,,,,Crypto.com Arena,In-Season Tournament
-Wed Nov 22 2023,7:00p,Washington Wizards,,Charlotte Hornets,,,,,Spectrum Center,
-Wed Nov 22 2023,7:00p,Denver Nuggets,,Orlando Magic,,,,,Amway Center,
-Wed Nov 22 2023,7:30p,Brooklyn Nets,,Atlanta Hawks,,,,,State Farm Arena,
-Wed Nov 22 2023,7:30p,Milwaukee Bucks,,Boston Celtics,,,,,TD Garden,
-Wed Nov 22 2023,7:30p,Miami Heat,,Cleveland Cavaliers,,,,,Rocket Mortgage Fieldhouse,
-Wed Nov 22 2023,7:30p,Toronto Raptors,,Indiana Pacers,,,,,Gainbridge Fieldhouse,
-Wed Nov 22 2023,8:00p,Memphis Grizzlies,,Houston Rockets,,,,,Toyota Center,
-Wed Nov 22 2023,8:00p,Philadelphia 76ers,,Minnesota Timberwolves,,,,,Target Center,
-Wed Nov 22 2023,8:00p,Sacramento Kings,,New Orleans Pelicans,,,,,Smoothie King Center,
-Wed Nov 22 2023,8:00p,Chicago Bulls,,Oklahoma City Thunder,,,,,Paycom Center,
-Wed Nov 22 2023,8:00p,Los Angeles Clippers,,San Antonio Spurs,,,,,AT&T Center,
-Wed Nov 22 2023,10:00p,Golden State Warriors,,Phoenix Suns,,,,,Footprint Center,
-Wed Nov 22 2023,10:00p,Utah Jazz,,Portland Trail Blazers,,,,,Moda Center,
-Wed Nov 22 2023,10:30p,Dallas Mavericks,,Los Angeles Lakers,,,,,Crypto.com Arena,
-Fri Nov 24 2023,2:30p,Boston Celtics,,Orlando Magic,,,,,Amway Center,In-Season Tournament
-Fri Nov 24 2023,5:00p,Phoenix Suns,,Memphis Grizzlies,,,,,FedEx Forum,In-Season Tournament
-Fri Nov 24 2023,7:30p,Miami Heat,,New York Knicks,,,,,Madison Square Garden (IV),In-Season Tournament
-Fri Nov 24 2023,7:30p,Chicago Bulls,,Toronto Raptors,,,,,Scotiabank Arena,In-Season Tournament
-Fri Nov 24 2023,8:00p,Denver Nuggets,,Houston Rockets,,,,,Toyota Center,In-Season Tournament
-Fri Nov 24 2023,8:00p,Detroit Pistons,,Indiana Pacers,,,,,Gainbridge Fieldhouse,In-Season Tournament
-Fri Nov 24 2023,8:00p,Washington Wizards,,Milwaukee Bucks,,,,,Fiserv Forum,In-Season Tournament
-Fri Nov 24 2023,8:00p,Sacramento Kings,,Minnesota Timberwolves,,,,,Target Center,In-Season Tournament
-Fri Nov 24 2023,10:00p,San Antonio Spurs,,Golden State Warriors,,,,,Chase Center,In-Season Tournament
-Fri Nov 24 2023,10:30p,New Orleans Pelicans,,Los Angeles Clippers,,,,,Crypto.com Arena,In-Season Tournament
-Sat Nov 25 2023,5:00p,Philadelphia 76ers,,Oklahoma City Thunder,,,,,Paycom Center,
-Sat Nov 25 2023,6:00p,Miami Heat,,Brooklyn Nets,,,,,Barclays Center,
-Sat Nov 25 2023,7:00p,Atlanta Hawks,,Washington Wizards,,,,,Capital One Arena,
-Sat Nov 25 2023,7:30p,Los Angeles Lakers,,Cleveland Cavaliers,,,,,Rocket Mortgage Fieldhouse,
-Sat Nov 25 2023,9:30p,New Orleans Pelicans,,Utah Jazz,,,,,Delta Center,
-Sat Nov 25 2023,10:30p,Dallas Mavericks,,Los Angeles Clippers,,,,,Crypto.com Arena,
-Sun Nov 26 2023,3:30p,Portland Trail Blazers,,Milwaukee Bucks,,,,,Fiserv Forum,
-Sun Nov 26 2023,6:00p,Atlanta Hawks,,Boston Celtics,,,,,TD Garden,
-Sun Nov 26 2023,6:00p,Minnesota Timberwolves,,Memphis Grizzlies,,,,,FedEx Forum,
-Sun Nov 26 2023,6:00p,Phoenix Suns,,New York Knicks,,,,,Madison Square Garden (IV),
-Sun Nov 26 2023,6:00p,Charlotte Hornets,,Orlando Magic,,,,,Amway Center,
-Sun Nov 26 2023,7:30p,Chicago Bulls,,Brooklyn Nets,,,,,Barclays Center,
-Sun Nov 26 2023,7:30p,Toronto Raptors,,Cleveland Cavaliers,,,,,Rocket Mortgage Fieldhouse,
-Sun Nov 26 2023,8:00p,San Antonio Spurs,,Denver Nuggets,,,,,Ball Arena,
-Mon Nov 27 2023,7:00p,Washington Wizards,,Detroit Pistons,,,,,Little Caesars Arena,
-Mon Nov 27 2023,7:00p,Portland Trail Blazers,,Indiana Pacers,,,,,Gainbridge Fieldhouse,
-Mon Nov 27 2023,7:00p,Los Angeles Lakers,,Philadelphia 76ers,,,,,Wells Fargo Center,
-Mon Nov 27 2023,9:00p,New Orleans Pelicans,,Utah Jazz,,,,,Delta Center,
-Mon Nov 27 2023,10:30p,Denver Nuggets,,Los Angeles Clippers,,,,,Crypto.com Arena,
-Tue Nov 28 2023,7:30p,Chicago Bulls,,Boston Celtics,,,,,TD Garden,In-Season Tournament
-Tue Nov 28 2023,7:30p,Toronto Raptors,,Brooklyn Nets,,,,,Barclays Center,In-Season Tournament
-Tue Nov 28 2023,7:30p,Atlanta Hawks,,Cleveland Cavaliers,,,,,Rocket Mortgage Fieldhouse,In-Season Tournament
-Tue Nov 28 2023,7:30p,Milwaukee Bucks,,Miami Heat,,,,,Kaseya Center,In-Season Tournament
-Tue Nov 28 2023,7:30p,Charlotte Hornets,,New York Knicks,,,,,Madison Square Garden (IV),In-Season Tournament
-Tue Nov 28 2023,8:00p,Oklahoma City Thunder,,Minnesota Timberwolves,,,,,Target Center,In-Season Tournament
-Tue Nov 28 2023,8:30p,Houston Rockets,,Dallas Mavericks,,,,,American Airlines Center,In-Season Tournament
-Tue Nov 28 2023,10:00p,Golden State Warriors,,Sacramento Kings,,,,,Golden 1 Center,In-Season Tournament
-Wed Nov 29 2023,7:00p,Los Angeles Lakers,,Detroit Pistons,,,,,Little Caesars Arena,
-Wed Nov 29 2023,7:00p,Washington Wizards,,Orlando Magic,,,,,Amway Center,
-Wed Nov 29 2023,7:30p,Phoenix Suns,,Toronto Raptors,,,,,Scotiabank Arena,
-Wed Nov 29 2023,8:00p,Utah Jazz,,Memphis Grizzlies,,,,,FedEx Forum,
-Wed Nov 29 2023,8:00p,Philadelphia 76ers,,New Orleans Pelicans,,,,,Smoothie King Center,
-Wed Nov 29 2023,9:00p,Houston Rockets,,Denver Nuggets,,,,,Ball Arena,
-Wed Nov 29 2023,10:00p,Los Angeles Clippers,,Sacramento Kings,,,,,Golden 1 Center,
-Thu Nov 30 2023,7:00p,Portland Trail Blazers,,Cleveland Cavaliers,,,,,Rocket Mortgage Fieldhouse,
-Thu Nov 30 2023,7:30p,Charlotte Hornets,,Brooklyn Nets,,,,,Barclays Center,
-Thu Nov 30 2023,7:30p,Indiana Pacers,,Miami Heat,,,,,Kaseya Center,
-Thu Nov 30 2023,7:30p,Detroit Pistons,,New York Knicks,,,,,Madison Square Garden (IV),
-Thu Nov 30 2023,8:00p,Milwaukee Bucks,,Chicago Bulls,,,,,United Center,
-Thu Nov 30 2023,8:00p,Utah Jazz,,Minnesota Timberwolves,,,,,Target Center,
-Thu Nov 30 2023,8:00p,Los Angeles Lakers,,Oklahoma City Thunder,,,,,Paycom Center,
-Thu Nov 30 2023,8:00p,Atlanta Hawks,,San Antonio Spurs,,,,,AT&T Center,
-Thu Nov 30 2023,10:00p,Los Angeles Clippers,,Golden State Warriors,,,,,Chase Center,
+Date,Start (ET),Visitor/Neutral,PTS,Home/Neutral,PTS,,,Attend.,LOG,Arena,Notes
+Fri Nov 1 2024,7:00p,Boston Celtics,,Charlotte Hornets,,,,,,Spectrum Center,
+Fri Nov 1 2024,7:00p,Orlando Magic,,Cleveland Cavaliers,,,,,,Rocket Mortgage Fieldhouse,
+Fri Nov 1 2024,7:00p,New York Knicks,,Detroit Pistons,,,,,,Little Caesars Arena,
+Fri Nov 1 2024,7:30p,Sacramento Kings,,Atlanta Hawks,,,,,,State Farm Arena,
+Fri Nov 1 2024,7:30p,Chicago Bulls,,Brooklyn Nets,,,,,,Barclays Center,
+Fri Nov 1 2024,7:30p,Los Angeles Lakers,,Toronto Raptors,,,,,,Scotiabank Arena,
+Fri Nov 1 2024,8:00p,Indiana Pacers,,New Orleans Pelicans,,,,,,Smoothie King Center,
+Fri Nov 1 2024,9:30p,Denver Nuggets,,Minnesota Timberwolves,,,,,,Target Center,
+Fri Nov 1 2024,10:00p,Oklahoma City Thunder,,Portland Trail Blazers,,,,,,Moda Center,
+Sat Nov 2 2024,6:00p,Boston Celtics,,Charlotte Hornets,,,,,,Spectrum Center,
+Sat Nov 2 2024,7:30p,Memphis Grizzlies,,Philadelphia 76ers,,,,,,Wells Fargo Center,
+Sat Nov 2 2024,7:30p,Sacramento Kings,,Toronto Raptors,,,,,,Scotiabank Arena,
+Sat Nov 2 2024,8:00p,Golden State Warriors,,Houston Rockets,,,,,,Toyota Center,
+Sat Nov 2 2024,8:00p,Cleveland Cavaliers,,Milwaukee Bucks,,,,,,Fiserv Forum,
+Sat Nov 2 2024,8:00p,Minnesota Timberwolves,,San Antonio Spurs,,,,,,Frost Bank Center,
+Sat Nov 2 2024,9:30p,Miami Heat,,Washington Wizards,,,,,,Mexico City Arena,
+Sat Nov 2 2024,10:00p,Utah Jazz,,Denver Nuggets,,,,,,Ball Arena,
+Sat Nov 2 2024,10:00p,Portland Trail Blazers,,Phoenix Suns,,,,,,Footprint Center,
+Sat Nov 2 2024,10:30p,Oklahoma City Thunder,,Los Angeles Clippers,,,,,,Intuit Dome,
+Sun Nov 3 2024,3:30p,Detroit Pistons,,Brooklyn Nets,,,,,,Barclays Center,
+Sun Nov 3 2024,7:00p,Atlanta Hawks,,New Orleans Pelicans,,,,,,Smoothie King Center,
+Sun Nov 3 2024,7:30p,Orlando Magic,,Dallas Mavericks,,,,,,American Airlines Center,
+Mon Nov 4 2024,7:00p,Milwaukee Bucks,,Cleveland Cavaliers,,,,,,Rocket Mortgage Fieldhouse,
+Mon Nov 4 2024,7:15p,Golden State Warriors,,Washington Wizards,,,,,,Capital One Arena,
+Mon Nov 4 2024,7:30p,Los Angeles Lakers,,Detroit Pistons,,,,,,Little Caesars Arena,
+Mon Nov 4 2024,7:45p,Boston Celtics,,Atlanta Hawks,,,,,,State Farm Arena,
+Mon Nov 4 2024,8:00p,Memphis Grizzlies,,Brooklyn Nets,,,,,,Barclays Center,
+Mon Nov 4 2024,8:15p,Sacramento Kings,,Miami Heat,,,,,,Kaseya Center,
+Mon Nov 4 2024,8:30p,Utah Jazz,,Chicago Bulls,,,,,,United Center,
+Mon Nov 4 2024,8:45p,New York Knicks,,Houston Rockets,,,,,,Toyota Center,
+Mon Nov 4 2024,9:00p,Charlotte Hornets,,Minnesota Timberwolves,,,,,,Target Center,
+Mon Nov 4 2024,9:15p,Orlando Magic,,Oklahoma City Thunder,,,,,,Paycom Center,
+Mon Nov 4 2024,9:30p,Portland Trail Blazers,,New Orleans Pelicans,,,,,,Smoothie King Center,
+Mon Nov 4 2024,9:45p,Indiana Pacers,,Dallas Mavericks,,,,,,American Airlines Center,
+Mon Nov 4 2024,10:00p,Toronto Raptors,,Denver Nuggets,,,,,,Ball Arena,
+Mon Nov 4 2024,10:15p,Philadelphia 76ers,,Phoenix Suns,,,,,,Footprint Center,
+Mon Nov 4 2024,10:30p,San Antonio Spurs,,Los Angeles Clippers,,,,,,Intuit Dome,
+Wed Nov 6 2024,7:00p,Detroit Pistons,,Charlotte Hornets,,,,,,Spectrum Center,
+Wed Nov 6 2024,7:00p,Orlando Magic,,Indiana Pacers,,,,,,Gainbridge Fieldhouse,
+Wed Nov 6 2024,7:30p,New York Knicks,,Atlanta Hawks,,,,,,State Farm Arena,
+Wed Nov 6 2024,7:30p,Golden State Warriors,,Boston Celtics,,,,,,TD Garden,
+Wed Nov 6 2024,8:00p,San Antonio Spurs,,Houston Rockets,,,,,,Toyota Center,
+Wed Nov 6 2024,8:00p,Los Angeles Lakers,,Memphis Grizzlies,,,,,,FedEx Forum,
+Wed Nov 6 2024,8:00p,Cleveland Cavaliers,,New Orleans Pelicans,,,,,,Smoothie King Center,
+Wed Nov 6 2024,8:30p,Chicago Bulls,,Dallas Mavericks,,,,,,American Airlines Center,
+Wed Nov 6 2024,9:00p,Oklahoma City Thunder,,Denver Nuggets,,,,,,Ball Arena,
+Wed Nov 6 2024,9:00p,Miami Heat,,Phoenix Suns,,,,,,Footprint Center,
+Wed Nov 6 2024,10:00p,Philadelphia 76ers,,Los Angeles Clippers,,,,,,Intuit Dome,
+Wed Nov 6 2024,10:00p,Toronto Raptors,,Sacramento Kings,,,,,,Golden 1 Center,
+Thu Nov 7 2024,8:00p,Minnesota Timberwolves,,Chicago Bulls,,,,,,United Center,
+Thu Nov 7 2024,8:00p,Utah Jazz,,Milwaukee Bucks,,,,,,Fiserv Forum,
+Thu Nov 7 2024,8:00p,Portland Trail Blazers,,San Antonio Spurs,,,,,,Frost Bank Center,
+Fri Nov 8 2024,7:00p,Indiana Pacers,,Charlotte Hornets,,,,,,Spectrum Center,
+Fri Nov 8 2024,7:00p,Atlanta Hawks,,Detroit Pistons,,,,,,Little Caesars Arena,
+Fri Nov 8 2024,7:00p,New Orleans Pelicans,,Orlando Magic,,,,,,Kia Center,
+Fri Nov 8 2024,7:30p,Brooklyn Nets,,Boston Celtics,,,,,,TD Garden,
+Fri Nov 8 2024,7:30p,Golden State Warriors,,Cleveland Cavaliers,,,,,,Rocket Mortgage Fieldhouse,
+Fri Nov 8 2024,7:30p,Phoenix Suns,,Dallas Mavericks,,,,,,American Airlines Center,
+Fri Nov 8 2024,7:30p,Milwaukee Bucks,,New York Knicks,,,,,,Madison Square Garden (IV),
+Fri Nov 8 2024,8:00p,Washington Wizards,,Memphis Grizzlies,,,,,,FedEx Forum,
+Fri Nov 8 2024,8:00p,Houston Rockets,,Oklahoma City Thunder,,,,,,Paycom Center,
+Fri Nov 8 2024,9:00p,Miami Heat,,Denver Nuggets,,,,,,Ball Arena,
+Fri Nov 8 2024,9:00p,Portland Trail Blazers,,Minnesota Timberwolves,,,,,,Target Center,
+Fri Nov 8 2024,10:00p,Philadelphia 76ers,,Los Angeles Lakers,,,,,,Crypto.com Arena,
+Fri Nov 8 2024,10:00p,Los Angeles Clippers,,Sacramento Kings,,,,,,Golden 1 Center,
+Sat Nov 9 2024,5:00p,Utah Jazz,,San Antonio Spurs,,,,,,Frost Bank Center,
+Sat Nov 9 2024,7:30p,Chicago Bulls,,Atlanta Hawks,,,,,,State Farm Arena,
+Sat Nov 9 2024,7:30p,Brooklyn Nets,,Cleveland Cavaliers,,,,,,Rocket Mortgage Fieldhouse,
+Sat Nov 9 2024,10:30p,Toronto Raptors,,Los Angeles Clippers,,,,,,Intuit Dome,
+Sun Nov 10 2024,3:00p,Houston Rockets,,Detroit Pistons,,,,,,Little Caesars Arena,
+Sun Nov 10 2024,3:30p,Boston Celtics,,Milwaukee Bucks,,,,,,Fiserv Forum,
+Sun Nov 10 2024,5:00p,New York Knicks,,Indiana Pacers,,,,,,Gainbridge Fieldhouse,
+Sun Nov 10 2024,6:00p,Washington Wizards,,Orlando Magic,,,,,,Kia Center,
+Sun Nov 10 2024,7:00p,Miami Heat,,Minnesota Timberwolves,,,,,,Target Center,
+Sun Nov 10 2024,7:00p,Golden State Warriors,,Oklahoma City Thunder,,,,,,Paycom Center,
+Sun Nov 10 2024,7:00p,Charlotte Hornets,,Philadelphia 76ers,,,,,,Wells Fargo Center,
+Sun Nov 10 2024,8:00p,Dallas Mavericks,,Denver Nuggets,,,,,,Ball Arena,
+Sun Nov 10 2024,8:00p,Sacramento Kings,,Phoenix Suns,,,,,,Footprint Center,
+Sun Nov 10 2024,9:00p,Memphis Grizzlies,,Portland Trail Blazers,,,,,,Moda Center,
+Sun Nov 10 2024,9:30p,Toronto Raptors,,Los Angeles Lakers,,,,,,Crypto.com Arena,
+Mon Nov 11 2024,8:00p,Cleveland Cavaliers,,Chicago Bulls,,,,,,United Center,
+Mon Nov 11 2024,8:00p,Washington Wizards,,Houston Rockets,,,,,,Toyota Center,
+Mon Nov 11 2024,8:00p,Brooklyn Nets,,New Orleans Pelicans,,,,,,Smoothie King Center,
+Mon Nov 11 2024,8:00p,Los Angeles Clippers,,Oklahoma City Thunder,,,,,,Paycom Center,
+Mon Nov 11 2024,8:00p,Sacramento Kings,,San Antonio Spurs,,,,,,Frost Bank Center,
+Tue Nov 12 2024,7:00p,Atlanta Hawks,,Boston Celtics,,,,,,TD Garden,In-Season Tournament
+Tue Nov 12 2024,7:00p,Miami Heat,,Detroit Pistons,,,,,,Little Caesars Arena,In-Season Tournament
+Tue Nov 12 2024,7:00p,Charlotte Hornets,,Orlando Magic,,,,,,Kia Center,In-Season Tournament
+Tue Nov 12 2024,7:30p,New York Knicks,,Philadelphia 76ers,,,,,,Wells Fargo Center,In-Season Tournament
+Tue Nov 12 2024,8:00p,Toronto Raptors,,Milwaukee Bucks,,,,,,Fiserv Forum,In-Season Tournament
+Tue Nov 12 2024,9:00p,Phoenix Suns,,Utah Jazz,,,,,,Delta Center,In-Season Tournament
+Tue Nov 12 2024,10:00p,Dallas Mavericks,,Golden State Warriors,,,,,,Chase Center,In-Season Tournament
+Tue Nov 12 2024,10:00p,Minnesota Timberwolves,,Portland Trail Blazers,,,,,,Moda Center,In-Season Tournament
+Wed Nov 13 2024,7:00p,Indiana Pacers,,Orlando Magic,,,,,,Kia Center,
+Wed Nov 13 2024,7:30p,Boston Celtics,,Brooklyn Nets,,,,,,Barclays Center,
+Wed Nov 13 2024,7:30p,Chicago Bulls,,New York Knicks,,,,,,Madison Square Garden (IV),
+Wed Nov 13 2024,7:30p,New Orleans Pelicans,,Oklahoma City Thunder,,,,,,Paycom Center,
+Wed Nov 13 2024,7:30p,Cleveland Cavaliers,,Philadelphia 76ers,,,,,,Wells Fargo Center,
+Wed Nov 13 2024,8:00p,Los Angeles Clippers,,Houston Rockets,,,,,,Toyota Center,
+Wed Nov 13 2024,8:00p,Detroit Pistons,,Milwaukee Bucks,,,,,,Fiserv Forum,
+Wed Nov 13 2024,8:00p,Washington Wizards,,San Antonio Spurs,,,,,,Frost Bank Center,
+Wed Nov 13 2024,10:00p,Memphis Grizzlies,,Los Angeles Lakers,,,,,,Crypto.com Arena,
+Wed Nov 13 2024,10:00p,Minnesota Timberwolves,,Portland Trail Blazers,,,,,,Moda Center,
+Wed Nov 13 2024,10:00p,Phoenix Suns,,Sacramento Kings,,,,,,Golden 1 Center,
+Thu Nov 14 2024,9:00p,Dallas Mavericks,,Utah Jazz,,,,,,Delta Center,
+Fri Nov 15 2024,7:00p,Miami Heat,,Indiana Pacers,,,,,,Gainbridge Fieldhouse,In-Season Tournament
+Fri Nov 15 2024,7:00p,Philadelphia 76ers,,Orlando Magic,,,,,,Kia Center,In-Season Tournament
+Fri Nov 15 2024,7:00p,Detroit Pistons,,Toronto Raptors,,,,,,Scotiabank Arena,In-Season Tournament
+Fri Nov 15 2024,7:30p,Washington Wizards,,Atlanta Hawks,,,,,,State Farm Arena,In-Season Tournament
+Fri Nov 15 2024,7:30p,Chicago Bulls,,Cleveland Cavaliers,,,,,,Rocket Mortgage Fieldhouse,In-Season Tournament
+Fri Nov 15 2024,7:30p,Brooklyn Nets,,New York Knicks,,,,,,Madison Square Garden (IV),In-Season Tournament
+Fri Nov 15 2024,7:30p,Los Angeles Lakers,,San Antonio Spurs,,,,,,Frost Bank Center,In-Season Tournament
+Fri Nov 15 2024,8:00p,Los Angeles Clippers,,Houston Rockets,,,,,,Toyota Center,In-Season Tournament
+Fri Nov 15 2024,8:00p,Denver Nuggets,,New Orleans Pelicans,,,,,,Smoothie King Center,In-Season Tournament
+Fri Nov 15 2024,8:00p,Phoenix Suns,,Oklahoma City Thunder,,,,,,Paycom Center,In-Season Tournament
+Fri Nov 15 2024,10:00p,Memphis Grizzlies,,Golden State Warriors,,,,,,Chase Center,In-Season Tournament
+Fri Nov 15 2024,10:00p,Minnesota Timberwolves,,Sacramento Kings,,,,,,Golden 1 Center,In-Season Tournament
+Sat Nov 16 2024,3:00p,Milwaukee Bucks,,Charlotte Hornets,,,,,,Spectrum Center,
+Sat Nov 16 2024,8:00p,Toronto Raptors,,Boston Celtics,,,,,,TD Garden,
+Sat Nov 16 2024,8:00p,Los Angeles Lakers,,New Orleans Pelicans,,,,,,Smoothie King Center,
+Sat Nov 16 2024,8:30p,San Antonio Spurs,,Dallas Mavericks,,,,,,American Airlines Center,
+Sat Nov 16 2024,10:00p,Utah Jazz,,Sacramento Kings,,,,,,Golden 1 Center,
+Sun Nov 17 2024,3:30p,Phoenix Suns,,Minnesota Timberwolves,,,,,,Target Center,
+Sun Nov 17 2024,5:00p,Miami Heat,,Indiana Pacers,,,,,,Gainbridge Fieldhouse,
+Sun Nov 17 2024,6:00p,Charlotte Hornets,,Cleveland Cavaliers,,,,,,Rocket Mortgage Fieldhouse,
+Sun Nov 17 2024,6:00p,Denver Nuggets,,Memphis Grizzlies,,,,,,FedEx Forum,
+Sun Nov 17 2024,6:00p,Atlanta Hawks,,Portland Trail Blazers,,,,,,Moda Center,
+Sun Nov 17 2024,6:00p,Detroit Pistons,,Washington Wizards,,,,,,Capital One Arena,
+Sun Nov 17 2024,7:00p,Houston Rockets,,Chicago Bulls,,,,,,United Center,
+Sun Nov 17 2024,7:00p,Brooklyn Nets,,New York Knicks,,,,,,Madison Square Garden (IV),
+Sun Nov 17 2024,7:00p,Dallas Mavericks,,Oklahoma City Thunder,,,,,,Paycom Center,
+Sun Nov 17 2024,9:00p,Utah Jazz,,Los Angeles Clippers,,,,,,Intuit Dome,
+Mon Nov 18 2024,7:00p,Chicago Bulls,,Detroit Pistons,,,,,,Little Caesars Arena,
+Mon Nov 18 2024,7:30p,Philadelphia 76ers,,Miami Heat,,,,,,Kaseya Center,
+Mon Nov 18 2024,7:30p,Washington Wizards,,New York Knicks,,,,,,Madison Square Garden (IV),
+Mon Nov 18 2024,7:30p,Indiana Pacers,,Toronto Raptors,,,,,,Scotiabank Arena,
+Mon Nov 18 2024,8:00p,Houston Rockets,,Milwaukee Bucks,,,,,,Fiserv Forum,
+Mon Nov 18 2024,9:00p,Orlando Magic,,Phoenix Suns,,,,,,Footprint Center,
+Mon Nov 18 2024,10:00p,Atlanta Hawks,,Sacramento Kings,,,,,,Golden 1 Center,
+Mon Nov 18 2024,10:30p,Golden State Warriors,,Los Angeles Clippers,,,,,,Intuit Dome,
+Tue Nov 19 2024,7:00p,Cleveland Cavaliers,,Boston Celtics,,,,,,TD Garden,In-Season Tournament
+Tue Nov 19 2024,7:30p,Charlotte Hornets,,Brooklyn Nets,,,,,,Barclays Center,In-Season Tournament
+Tue Nov 19 2024,8:00p,Denver Nuggets,,Memphis Grizzlies,,,,,,FedEx Forum,In-Season Tournament
+Tue Nov 19 2024,8:30p,New Orleans Pelicans,,Dallas Mavericks,,,,,,American Airlines Center,In-Season Tournament
+Tue Nov 19 2024,9:30p,Oklahoma City Thunder,,San Antonio Spurs,,,,,,Frost Bank Center,In-Season Tournament
+Tue Nov 19 2024,10:30p,Utah Jazz,,Los Angeles Lakers,,,,,,Crypto.com Arena,In-Season Tournament
+Wed Nov 20 2024,7:30p,New Orleans Pelicans,,Cleveland Cavaliers,,,,,,Rocket Mortgage Fieldhouse,
+Wed Nov 20 2024,7:30p,Chicago Bulls,,Milwaukee Bucks,,,,,,Fiserv Forum,
+Wed Nov 20 2024,8:00p,Indiana Pacers,,Houston Rockets,,,,,,Toyota Center,
+Wed Nov 20 2024,8:00p,Philadelphia 76ers,,Memphis Grizzlies,,,,,,FedEx Forum,
+Wed Nov 20 2024,8:00p,Portland Trail Blazers,,Oklahoma City Thunder,,,,,,Paycom Center,
+Wed Nov 20 2024,10:00p,Atlanta Hawks,,Golden State Warriors,,,,,,Chase Center,
+Wed Nov 20 2024,10:00p,New York Knicks,,Phoenix Suns,,,,,,Footprint Center,
+Wed Nov 20 2024,10:30p,Orlando Magic,,Los Angeles Clippers,,,,,,Intuit Dome,
+Thu Nov 21 2024,7:00p,Detroit Pistons,,Charlotte Hornets,,,,,,Spectrum Center,
+Thu Nov 21 2024,7:30p,Minnesota Timberwolves,,Toronto Raptors,,,,,,Scotiabank Arena,
+Thu Nov 21 2024,8:00p,Utah Jazz,,San Antonio Spurs,,,,,,Frost Bank Center,
+Thu Nov 21 2024,10:30p,Orlando Magic,,Los Angeles Lakers,,,,,,Crypto.com Arena,
+Fri Nov 22 2024,7:00p,Brooklyn Nets,,Philadelphia 76ers,,,,,,Wells Fargo Center,In-Season Tournament
+Fri Nov 22 2024,7:00p,Boston Celtics,,Washington Wizards,,,,,,Capital One Arena,In-Season Tournament
+Fri Nov 22 2024,7:30p,Indiana Pacers,,Milwaukee Bucks,,,,,,Fiserv Forum,In-Season Tournament
+Fri Nov 22 2024,8:00p,Atlanta Hawks,,Chicago Bulls,,,,,,United Center,In-Season Tournament
+Fri Nov 22 2024,8:00p,Portland Trail Blazers,,Houston Rockets,,,,,,Toyota Center,In-Season Tournament
+Fri Nov 22 2024,8:00p,Golden State Warriors,,New Orleans Pelicans,,,,,,Smoothie King Center,In-Season Tournament
+Fri Nov 22 2024,10:00p,Dallas Mavericks,,Denver Nuggets,,,,,,Ball Arena,In-Season Tournament
+Fri Nov 22 2024,10:30p,Sacramento Kings,,Los Angeles Clippers,,,,,,Intuit Dome,In-Season Tournament
+Sat Nov 23 2024,5:00p,New York Knicks,,Utah Jazz,,,,,,Delta Center,
+Sat Nov 23 2024,7:00p,Detroit Pistons,,Orlando Magic,,,,,,Kia Center,
+Sat Nov 23 2024,8:00p,Memphis Grizzlies,,Chicago Bulls,,,,,,United Center,
+Sat Nov 23 2024,8:00p,Portland Trail Blazers,,Houston Rockets,,,,,,Toyota Center,
+Sat Nov 23 2024,8:00p,Charlotte Hornets,,Milwaukee Bucks,,,,,,Fiserv Forum,
+Sat Nov 23 2024,8:30p,Golden State Warriors,,San Antonio Spurs,,,,,,Frost Bank Center,
+Sat Nov 23 2024,10:30p,Denver Nuggets,,Los Angeles Lakers,,,,,,Crypto.com Arena,
+Sun Nov 24 2024,3:30p,Minnesota Timberwolves,,Boston Celtics,,,,,,TD Garden,
+Sun Nov 24 2024,5:00p,Washington Wizards,,Indiana Pacers,,,,,,Gainbridge Fieldhouse,
+Sun Nov 24 2024,6:00p,Dallas Mavericks,,Miami Heat,,,,,,Kaseya Center,
+Sun Nov 24 2024,6:00p,Los Angeles Clippers,,Philadelphia 76ers,,,,,,Wells Fargo Center,
+Sun Nov 24 2024,7:30p,Toronto Raptors,,Cleveland Cavaliers,,,,,,Rocket Mortgage Fieldhouse,
+Sun Nov 24 2024,9:00p,Brooklyn Nets,,Sacramento Kings,,,,,,Golden 1 Center,
+Mon Nov 25 2024,7:00p,Orlando Magic,,Charlotte Hornets,,,,,,Spectrum Center,
+Mon Nov 25 2024,7:00p,Toronto Raptors,,Detroit Pistons,,,,,,Little Caesars Arena,
+Mon Nov 25 2024,7:00p,New Orleans Pelicans,,Indiana Pacers,,,,,,Gainbridge Fieldhouse,
+Mon Nov 25 2024,7:30p,Dallas Mavericks,,Atlanta Hawks,,,,,,State Farm Arena,
+Mon Nov 25 2024,7:30p,Los Angeles Clippers,,Boston Celtics,,,,,,TD Garden,
+Mon Nov 25 2024,8:00p,Portland Trail Blazers,,Memphis Grizzlies,,,,,,FedEx Forum,
+Mon Nov 25 2024,9:00p,New York Knicks,,Denver Nuggets,,,,,,Ball Arena,
+Mon Nov 25 2024,10:00p,Brooklyn Nets,,Golden State Warriors,,,,,,Chase Center,
+Mon Nov 25 2024,10:00p,Oklahoma City Thunder,,Sacramento Kings,,,,,,Golden 1 Center,
+Tue Nov 26 2024,7:00p,Chicago Bulls,,Washington Wizards,,,,,,Capital One Arena,In-Season Tournament
+Tue Nov 26 2024,7:30p,Milwaukee Bucks,,Miami Heat,,,,,,Kaseya Center,In-Season Tournament
+Tue Nov 26 2024,8:00p,Houston Rockets,,Minnesota Timberwolves,,,,,,Target Center,In-Season Tournament
+Tue Nov 26 2024,9:00p,San Antonio Spurs,,Utah Jazz,,,,,,Delta Center,In-Season Tournament
+Tue Nov 26 2024,10:00p,Los Angeles Lakers,,Phoenix Suns,,,,,,Footprint Center,In-Season Tournament
+Wed Nov 27 2024,7:00p,Miami Heat,,Charlotte Hornets,,,,,,Spectrum Center,
+Wed Nov 27 2024,7:00p,Atlanta Hawks,,Cleveland Cavaliers,,,,,,Rocket Mortgage Fieldhouse,
+Wed Nov 27 2024,7:00p,Portland Trail Blazers,,Indiana Pacers,,,,,,Gainbridge Fieldhouse,
+Wed Nov 27 2024,7:00p,Chicago Bulls,,Orlando Magic,,,,,,Kia Center,
+Wed Nov 27 2024,7:00p,Houston Rockets,,Philadelphia 76ers,,,,,,Wells Fargo Center,
+Wed Nov 27 2024,7:00p,Los Angeles Clippers,,Washington Wizards,,,,,,Capital One Arena,
+Wed Nov 27 2024,7:30p,New York Knicks,,Dallas Mavericks,,,,,,American Airlines Center,
+Wed Nov 27 2024,8:00p,Detroit Pistons,,Memphis Grizzlies,,,,,,FedEx Forum,
+Wed Nov 27 2024,8:00p,Sacramento Kings,,Minnesota Timberwolves,,,,,,Target Center,
+Wed Nov 27 2024,8:00p,Toronto Raptors,,New Orleans Pelicans,,,,,,Smoothie King Center,
+Wed Nov 27 2024,8:30p,Los Angeles Lakers,,San Antonio Spurs,,,,,,Frost Bank Center,
+Wed Nov 27 2024,9:00p,Brooklyn Nets,,Phoenix Suns,,,,,,Footprint Center,
+Wed Nov 27 2024,9:00p,Denver Nuggets,,Utah Jazz,,,,,,Delta Center,
+Wed Nov 27 2024,10:00p,Oklahoma City Thunder,,Golden State Warriors,,,,,,Chase Center,
+Fri Nov 29 2024,12:00p,New York Knicks,,Charlotte Hornets,,,,,,Spectrum Center,In-Season Tournament
+Fri Nov 29 2024,2:30p,Cleveland Cavaliers,,Atlanta Hawks,,,,,,State Farm Arena,In-Season Tournament
+Fri Nov 29 2024,5:00p,New Orleans Pelicans,,Memphis Grizzlies,,,,,,FedEx Forum,In-Season Tournament
+Fri Nov 29 2024,7:30p,Orlando Magic,,Brooklyn Nets,,,,,,Barclays Center,In-Season Tournament
+Fri Nov 29 2024,7:30p,Los Angeles Clippers,,Minnesota Timberwolves,,,,,,Target Center,In-Season Tournament
+Fri Nov 29 2024,8:00p,Boston Celtics,,Chicago Bulls,,,,,,United Center,In-Season Tournament
+Fri Nov 29 2024,8:00p,Detroit Pistons,,Indiana Pacers,,,,,,Gainbridge Fieldhouse,In-Season Tournament
+Fri Nov 29 2024,8:00p,Toronto Raptors,,Miami Heat,,,,,,Kaseya Center,In-Season Tournament
+Fri Nov 29 2024,10:00p,Oklahoma City Thunder,,Los Angeles Lakers,,,,,,Crypto.com Arena,In-Season Tournament
+Fri Nov 29 2024,10:00p,Sacramento Kings,,Portland Trail Blazers,,,,,,Moda Center,In-Season Tournament
+Sat Nov 30 2024,6:00p,Atlanta Hawks,,Charlotte Hornets,,,,,,Spectrum Center,
+Sat Nov 30 2024,7:00p,Philadelphia 76ers,,Detroit Pistons,,,,,,Little Caesars Arena,
+Sat Nov 30 2024,8:00p,Washington Wizards,,Milwaukee Bucks,,,,,,Fiserv Forum,
+Sat Nov 30 2024,9:00p,Golden State Warriors,,Phoenix Suns,,,,,,Footprint Center,
+Sat Nov 30 2024,9:30p,Dallas Mavericks,,Utah Jazz,,,,,,Delta Center,
