@@ -19,7 +19,7 @@ jobs:
       - name: curl
         uses: wei/curl@v1
         with:
-          args: -O  https://www.basketball-reference.com/leagues/NBA_2025.html
+          args: -O  https://www.basketball-reference.com/leagues/NBA_2026.html
       - name: Postprocess
         run: deno run -q --allow-read --allow-write --allow-run --allow-net --allow-env --unstable ./postprocess.ts
       - name: Configure Git
